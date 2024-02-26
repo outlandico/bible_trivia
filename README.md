@@ -20,7 +20,10 @@
 
 ## 10 - 2 Samuel
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> cafd314a4192d8a99baa0ba647a41f3b4d07d546
 ## 11 - 1 Kings
 
 ## 12 - 2 Kings
@@ -66,6 +69,10 @@
 ## 32 - Jonah
 
 ## 33 - Micah
+<<<<<<< HEAD
+=======
+
+>>>>>>> cafd314a4192d8a99baa0ba647a41f3b4d07d546
 ## 34 - Nahum
 
 ## 35 - Habakkuk
@@ -85,7 +92,10 @@
 ## 42 - Luke
 
 ## 43 - John
+<<<<<<< HEAD
 
+=======
+>>>>>>> cafd314a4192d8a99baa0ba647a41f3b4d07d546
 ## 44 - Acts
 
 ## 45 - Romans
@@ -131,3 +141,7 @@
 ## 65 - Jude
 
 ## 66 - Revelation
+<<<<<<< HEAD
+=======
+
+>>>>>>> cafd314a4192d8a99baa0ba647a41f3b4d07d546
